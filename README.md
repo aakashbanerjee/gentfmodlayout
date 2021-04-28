@@ -30,4 +30,4 @@ setup terraform workspace to track changes to /tf and you arre all set for a smo
 
 added example terraform code to create a free resource IAM Access Analyzer in AWS account us-east-1.
 
-**Please note you will need to add the role arn and session name in the root module provider.tf
+**Please note you will need to add the role arn and session name in the root module provider.tf**
